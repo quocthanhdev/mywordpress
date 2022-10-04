@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ACCESSORIES &#8211; My Project</title>
+	<atom:link href="https://quocthanhdev.github.io/mywordpress/product-category/accessories/feed/" rel="self" type="application/rss+xml" />
+	<link>https://quocthanhdev.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 04 Oct 2022 03:30:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Hideaway Mirror</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/hideaway-mirror/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/hideaway-mirror/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:29:39 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=641</guid>
+
+					<description><![CDATA[This is an external product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/hideaway-mirror/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Detangling Comb</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/detangling-comb/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/detangling-comb/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 02:09:14 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=523</guid>
+
+					<description><![CDATA[This is a simple, virtual product.]]></description>
+										<content:encoded><![CDATA[<div class="g5shop__single-product-tabs layout-2">
+<div class="tab-content g5shop__panels-container">
+<div id="tab-description" class="tab-pane fade show active" role="tabpanel" aria-labelledby="description-tab">
+<div class="g5shop__tab-panel">
+<div id="collapse-description" class="collapse show" data-parent=".g5shop__panels-container">
+<div class="g5shop__panel-body">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/detangling-comb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sideway Travel Case Set</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/sideway-travel-case-set/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/sideway-travel-case-set/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 02:06:38 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=518</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/sideway-travel-case-set/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Getaway Travel Case Set</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/getaway-travel-case-set/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/getaway-travel-case-set/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 02:00:08 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=511</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/getaway-travel-case-set/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
