@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'tuedaynight';
+					src: url('https://quocthanhdev.github.io/mywordpress/wp-content/uploads/useanyfont/5259TuedayNight.woff2') format('woff2'),
+						url('https://quocthanhdev.github.io/mywordpress/wp-content/uploads/useanyfont/5259TuedayNight.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.tuedaynight{font-family: 'tuedaynight' !important;}
+
+		
