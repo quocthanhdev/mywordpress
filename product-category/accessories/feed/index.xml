@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>ACCESSORIES &#8211; My Project</title>
+	<title>ACCESSORIES</title>
 	<atom:link href="https://quocthanhdev.github.io/mywordpress/product-category/accessories/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quocthanhdev.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 01:02:25 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sat, 15 Oct 2022 05:07:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,42 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Hair Shampoo &#038; Conditioner Bar with Bamboo Holder Set</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/hair-shampoo-conditioner-bar-with-bamboo-holder-set/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/hair-shampoo-conditioner-bar-with-bamboo-holder-set/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 05:06:45 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=989</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/hair-shampoo-conditioner-bar-with-bamboo-holder-set/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ready to Roll Brush Set</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-3/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-3/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:58:06 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=984</guid>
+
+					<description><![CDATA[This is an external product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hideaway Mirror</title>
 		<link>https://quocthanhdev.github.io/mywordpress/product/hideaway-mirror/</link>
 					<comments>https://quocthanhdev.github.io/mywordpress/product/hideaway-mirror/#respond</comments>

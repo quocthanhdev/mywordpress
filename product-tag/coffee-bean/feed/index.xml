@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Coffee Bean &#8211; My Project</title>
+	<title>Coffee Bean</title>
 	<atom:link href="https://quocthanhdev.github.io/mywordpress/product-tag/coffee-bean/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quocthanhdev.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Tue, 11 Oct 2022 01:02:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>

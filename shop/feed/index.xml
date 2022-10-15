@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Products &#8211; My Project</title>
+	<title>Products</title>
 	<atom:link href="https://quocthanhdev.github.io/mywordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quocthanhdev.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 01:31:48 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sat, 15 Oct 2022 05:07:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,67 +20,49 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Hideaway Mirror</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/hideaway-mirror/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/hideaway-mirror/#respond</comments>
+		<title>Hair Shampoo &#038; Conditioner Bar with Bamboo Holder Set</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/hair-shampoo-conditioner-bar-with-bamboo-holder-set/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/hair-shampoo-conditioner-bar-with-bamboo-holder-set/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 03:29:39 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=641</guid>
-
-					<description><![CDATA[This is an external product.]]></description>
-										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/hideaway-mirror/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Shield Spray</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/shield-spray/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/shield-spray/#respond</comments>
-		
-		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 03:20:52 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=617</guid>
+		<pubDate>Sat, 15 Oct 2022 05:06:45 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=989</guid>
 
 					<description><![CDATA[This is a simple product.]]></description>
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/shield-spray/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/hair-shampoo-conditioner-bar-with-bamboo-holder-set/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Shield Conditioner</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/shield-conditioner/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/shield-conditioner/#respond</comments>
+		<title>Ready to Roll Brush Set</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-3/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-3/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 03:13:06 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=588</guid>
+		<pubDate>Sat, 15 Oct 2022 04:58:06 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=984</guid>
 
-					<description><![CDATA[This is a simple, virtual product.]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
+					<description><![CDATA[This is an external product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/shield-conditioner/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Scalp Moisturizing Cream</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/scalp-moisturizing-cream/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/scalp-moisturizing-cream/#respond</comments>
+		<title>Olaplex Bond Maintenance</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/olaplex-bond-maintenance/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/olaplex-bond-maintenance/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 03:03:54 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=560</guid>
+		<pubDate>Sat, 15 Oct 2022 04:49:30 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=961</guid>
 
 					<description><![CDATA[This is a variable product.]]></description>
 										<content:encoded><![CDATA[<div class="g5shop__single-product-tabs layout-2">
@@ -98,39 +80,21 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/scalp-moisturizing-cream/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/olaplex-bond-maintenance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Natural Coconut Cleansing Oil</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/natural-coconut-cleansing-oil/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/natural-coconut-cleansing-oil/#respond</comments>
+		<title>Protective Hair Oil with Moringa Oil</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-2/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-2/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:47:10 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=534</guid>
+		<pubDate>Sat, 15 Oct 2022 04:49:27 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=954</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.]]></description>
-										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/natural-coconut-cleansing-oil/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Enriched Duo</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/enriched-duo/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/enriched-duo/#respond</comments>
-		
-		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:23:41 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=528</guid>
-
-					<description><![CDATA[This is a simple product.]]></description>
+					<description><![CDATA[This is a variable product.]]></description>
 										<content:encoded><![CDATA[<div class="g5shop__single-product-tabs layout-2">
 <div class="tab-content g5shop__panels-container">
 <div id="tab-description" class="tab-pane fade show active" role="tabpanel" aria-labelledby="description-tab">
@@ -146,28 +110,28 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/enriched-duo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/sephora-collection-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Detangling Comb</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/detangling-comb/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/detangling-comb/#respond</comments>
+		<title>BondiBoost</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/bondiboost/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/bondiboost/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:09:14 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=523</guid>
+		<pubDate>Sat, 15 Oct 2022 04:49:24 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=947</guid>
 
-					<description><![CDATA[This is a simple, virtual product.]]></description>
+					<description><![CDATA[This is a variable product.]]></description>
 										<content:encoded><![CDATA[<div class="g5shop__single-product-tabs layout-2">
 <div class="tab-content g5shop__panels-container">
 <div id="tab-description" class="tab-pane fade show active" role="tabpanel" aria-labelledby="description-tab">
 <div class="g5shop__tab-panel">
 <div id="collapse-description" class="collapse show" data-parent=".g5shop__panels-container">
 <div class="g5shop__panel-body">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 </div>
 </div>
 </div>
@@ -176,61 +140,109 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/detangling-comb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/bondiboost/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Sideway Travel Case Set</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/sideway-travel-case-set/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/sideway-travel-case-set/#respond</comments>
+		<title>Olaplex</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/olaplex/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/olaplex/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:06:38 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=518</guid>
+		<pubDate>Sat, 15 Oct 2022 04:49:19 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=940</guid>
 
-					<description><![CDATA[This is a simple product.]]></description>
-										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+					<description><![CDATA[This is a variable product.]]></description>
+										<content:encoded><![CDATA[<div class="g5shop__single-product-tabs layout-2">
+<div class="tab-content g5shop__panels-container">
+<div id="tab-description" class="tab-pane fade show active" role="tabpanel" aria-labelledby="description-tab">
+<div class="g5shop__tab-panel">
+<div id="collapse-description" class="collapse show" data-parent=".g5shop__panels-container">
+<div class="g5shop__panel-body">
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/sideway-travel-case-set/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/olaplex/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Getaway Travel Case Set</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/getaway-travel-case-set/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/getaway-travel-case-set/#respond</comments>
+		<title>Sunday Riley</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/sunday-riley/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/sunday-riley/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:00:08 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=511</guid>
+		<pubDate>Sat, 15 Oct 2022 04:35:19 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=913</guid>
 
 					<description><![CDATA[This is a simple product.]]></description>
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/getaway-travel-case-set/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/sunday-riley/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Supreme Polishing Treatment</title>
-		<link>https://quocthanhdev.github.io/mywordpress/product/supreme-polishing-treatment/</link>
-					<comments>https://quocthanhdev.github.io/mywordpress/product/supreme-polishing-treatment/#respond</comments>
+		<title>Herbivore</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/herbivore/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/herbivore/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 01:57:23 +0000</pubDate>
-				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=506</guid>
+		<pubDate>Sat, 15 Oct 2022 04:35:15 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=912</guid>
 
 					<description><![CDATA[This is a simple product.]]></description>
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/supreme-polishing-treatment/feed/</wfw:commentRss>
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/herbivore/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dr. Barbara Sturm</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/dr-barbara-sturm/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/dr-barbara-sturm/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:35:13 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=911</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/dr-barbara-sturm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Drunk Elephant</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/drunk-elephant/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/drunk-elephant/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:35:12 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=910</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/drunk-elephant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

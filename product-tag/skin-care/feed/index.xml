@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Skin Care &#8211; My Project</title>
+	<title>Skin Care</title>
 	<atom:link href="https://quocthanhdev.github.io/mywordpress/product-tag/skin-care/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quocthanhdev.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 01:35:41 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sat, 15 Oct 2022 04:29:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,78 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Summer Fridays</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/summer-fridays/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/summer-fridays/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:28:08 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=905</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/summer-fridays/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Jo Malone London</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/jo-malone-london/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/jo-malone-london/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:25:31 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=900</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/jo-malone-london/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SEPHORA COLLECTION</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/sephora-collection/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/sephora-collection/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:22:27 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=895</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/sephora-collection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spotless Brightening Body Lotion SPF 7</title>
+		<link>https://quocthanhdev.github.io/mywordpress/product/spotless-brightening-body-lotion-spf-7/</link>
+					<comments>https://quocthanhdev.github.io/mywordpress/product/spotless-brightening-body-lotion-spf-7/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenquocthanh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 04:17:24 +0000</pubDate>
+				<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?post_type=product&#038;p=890</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quocthanhdev.github.io/mywordpress/product/spotless-brightening-body-lotion-spf-7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Enriched Duo</title>
 		<link>https://quocthanhdev.github.io/mywordpress/product/enriched-duo/</link>
 					<comments>https://quocthanhdev.github.io/mywordpress/product/enriched-duo/#respond</comments>

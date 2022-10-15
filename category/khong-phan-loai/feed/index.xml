@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Chưa phân loại &#8211; My Project</title>
+	<title>Chưa phân loại</title>
 	<atom:link href="https://quocthanhdev.github.io/mywordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quocthanhdev.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Sat, 10 Sep 2022 05:37:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -65,7 +65,7 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://quocthanhdev.github.io/mywordpress/?p=223</guid>
 
-					<description><![CDATA[Thú cưng là những con vật gần gũi và thân thiết với con người từ xưa tới nay. Thú cưng được nuôi để làm cảnh, để ôm ấp, để nâng niu. Nuôi thú cưng giúp con người ta cảm thấy yêu loài vật hơn gần gũi hơn. Hãy cùng chúng tôi điểm qua những loài [&#8230;]]]></description>
+					<description><![CDATA[Thú cưng là những con vật gần gũi và thân thiết với con người từ xưa tới nay. Thú cưng được nuôi để làm cảnh, để ôm ấp, để nâng niu. Nuôi thú cưng giúp con người ta cảm thấy yêu loài vật hơn gần gũi hơn. Hãy cùng chúng tôi điểm qua những loài thú cưng được giới trẻ [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="223" class="elementor elementor-223">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-886b0fa elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="886b0fa" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -99,7 +99,7 @@
 				<div class="elementor-element elementor-element-13d2bb5 elementor-widget elementor-widget-image" data-id="13d2bb5" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.8 - 02-10-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="2309" height="1282" src="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho.jpg 2309w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-416x231.jpg 416w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-300x167.jpg 300w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-1024x569.jpg 1024w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-768x426.jpg 768w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-1536x853.jpg 1536w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-2048x1137.jpg 2048w" sizes="(max-width: 2309px) 100vw, 2309px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="2309" height="1282" src="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho.jpg 2309w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-600x333.jpg 600w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-300x167.jpg 300w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-1024x569.jpg 1024w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-768x426.jpg 768w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-1536x853.jpg 1536w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cho-2048x1137.jpg 2048w" sizes="(max-width: 2309px) 100vw, 2309px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -189,7 +189,7 @@ Thân hình của thỏ vốn nhỏ nhắn và rất mực linh hoạt, do đó 
 				</div>
 				<div class="elementor-element elementor-element-e78e2a0 elementor-widget elementor-widget-image" data-id="e78e2a0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="2560" height="1707" src="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi.jpg 2560w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-416x277.jpg 416w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-300x200.jpg 300w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-1024x683.jpg 1024w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-768x512.jpg 768w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-1536x1024.jpg 1536w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-2048x1366.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />															</div>
+															<img width="2560" height="1707" src="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi.jpg 2560w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-600x400.jpg 600w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-300x200.jpg 300w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-1024x683.jpg 1024w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-768x512.jpg 768w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-1536x1024.jpg 1536w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/cakoi-2048x1366.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -261,7 +261,7 @@ Thân hình của thỏ vốn nhỏ nhắn và rất mực linh hoạt, do đó 
 				</div>
 				<div class="elementor-element elementor-element-d27446b elementor-widget elementor-widget-image" data-id="d27446b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1125" height="750" src="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica.jpg 1125w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica-416x277.jpg 416w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica-300x200.jpg 300w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica-1024x683.jpg 1024w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica-768x512.jpg 768w" sizes="(max-width: 1125px) 100vw, 1125px" />															</div>
+															<img width="1125" height="750" src="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica.jpg 1125w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica-600x400.jpg 600w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica-300x200.jpg 300w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica-1024x683.jpg 1024w, https://quocthanhdev.github.io/mywordpress/wp-content/uploads/2022/09/raica-768x512.jpg 768w" sizes="(max-width: 1125px) 100vw, 1125px" />															</div>
 				</div>
 					</div>
 		</div>
