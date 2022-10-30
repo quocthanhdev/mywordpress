@@ -9,7 +9,7 @@
          */
          init: function(){
             this.TabsMenu(  $(".ht-tab-menus"), '.ht-tab-pane' );
-            if( $(".ht-product-image-slider").length > 0 ) {
+            if( $("[class*='woolentorblock-'] .ht-product-image-slider").length > 0 ) {
                 this.productImageThumbnailsSlider( $(".ht-product-image-slider") );
             }
             this.thumbnailsimagescontroller();

@@ -188,8 +188,9 @@
 }
 /* Slick Slider End */
 
-.woolentor-grid.woolentor-no-gutters{
+.woolentor-grid.woolentor-no-gutters,.woolentor-grid.wlno-gutters{
     column-gap: 0px;
+    row-gap: 0px;
 }
 .woocommerce.woolentor-grid::before{
     display: none !important;

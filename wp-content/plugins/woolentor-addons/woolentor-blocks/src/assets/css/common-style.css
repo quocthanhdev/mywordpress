@@ -89,3 +89,8 @@
 .woolentor-customer-logout a{
     display: inline-block;
 }
+
+/* Product Grid */
+.woolentor_block_product_grid .ht-product-ratting i {
+    font-family: 'FontAwesome';
+}
